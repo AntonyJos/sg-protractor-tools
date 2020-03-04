@@ -4,7 +4,7 @@
 
 Note: SunGard has now merged with Fidelity Information Services, LLC (FIS)
 
-Version: 1.0.5
+Version: 1.0.6-SNAPSHOT
 
 This library provides a reusable and generic set of helper functions for the Protractor test framework, which FIS is using for testing its HTML5-based user interfaces. It includes functions that simplify things like browser resizing, scrolling and memory usage tracking as part of a test suite. The project bundles an example application that showcases the functionality.
 
