@@ -1,6 +1,6 @@
 {
   "name": "sg-protractor-tools",
-  "version": "1.0.5-SNAPSHOT",
+  "version": "1.0.5",
   "description": "Library of reusable helper functions for testing HTML5 applications with Protractor",
   "main": "index.js",
   "directories": {
@@ -50,8 +50,8 @@
       "email": "sebastian.fuss@sungard.com"
     },
     {
-       "name": "Jo du Plessis",
-       "email": "jo.duplessis@sungard.com"
+      "name": "Jo du Plessis",
+      "email": "jo.duplessis@sungard.com"
     }
   ],
   "license": "MIT",
